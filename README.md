@@ -34,7 +34,7 @@
   - After e Before
   - Asserts
   - Mocks e Stubs
-  - Assumptions e Testes condicionais
+  - Assumptions e Testes Condicionais
   - Exceptions
   - Boas Práticas
 #### Mockito
